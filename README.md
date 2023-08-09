@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafis-foysal-ashik&label=Profile%20views&color=0e75b6&style=flat" alt="nafis-foysal-ashik" /> </p>
 
-- 🔭 I’m currently studying **CSE at Khulna University of Engineering & Technology**
+- I’m currently studying **CSE at Khulna University of Engineering & Technology**
 
-- 🌱 I’m currently learning **Java and Andriod app development**
+- I’m currently learning **Java and Andriod app development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nafis-Foysal-Ashik?tab=repositories](https://github.com/Nafis-Foysal-Ashik?tab=repositories)
-
-- 📫 How to reach me **nafisfoisal25@gmail.com**
+- How to reach me **nafisfoisal25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
