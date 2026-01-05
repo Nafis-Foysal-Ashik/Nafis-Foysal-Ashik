@@ -80,12 +80,12 @@
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://images.seeklogo.com/logo-png/35/2/tailwind-css-logo-png_seeklogo-354675.png"
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
       width="40" height="40" style="margin:10px;" />
 </a>
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.stickpng.com/images/62a76468bd73a4af5c5d4fb7.png"
+  <img src="https://img.icons8.com/external-those-icons-flat-those-icons/1200/external-Bootstrap-Logo-social-media-those-icons-flat-those-icons.jpg"
        width="40" height="40" style="margin:10px;" />
 </a>
 
