@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafis-foysal-ashik&label=Profile%20views&color=0e75b6&style=flat" alt="nafis-foysal-ashik" /> </p>
 
 <h3 align="left">About Me</h3>
--> 4th-year computer science and engineering prospective student at Khulna University of Engineering and Technology.
--> Full Stack Web Developer
--> Interest in AI/LLM
--> Solved more than 500 problems in different online platforms
+-> 4th-year computer science and engineering prospective student at Khulna University of Engineering and Technology.<br>
+-> Full Stack Web Developer<br>
+-> Interest in AI/LLM<br>
+-> Solved more than 500 problems in different online platforms<br>
 
 <h3 align="left">How to reach me</h3>
 
