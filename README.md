@@ -106,6 +106,15 @@
 </p>
 
 
+<h3 align="left">Mobile App Development</h3>
+<p align="left"> 
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <img src="https://9to5google.com/wp-content/uploads/sites/4/2022/10/android-studio-logo-1.jpg?quality=82&strip=all&w=1600"
+      width="40" height="40" style="margin:10px;" />
+</a>
+</p>
+
+
 <h3 align="left">Technical Skills</h3>
 -> Backend Development: Laravel <br>
 -> Full-Stack Development: MERN Stack <br>
