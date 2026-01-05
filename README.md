@@ -92,6 +92,20 @@
 </p>
 
 
+<h3 align="left">Backend Development</h3>
+<p align="left"> 
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+  <img src="https://seekvectors.com/storage/images/node%20js%20logo.svg"
+      width="40" height="40" style="margin:10px;" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp"
+       width="40" height="40" style="margin:10px;" />
+</a>
+</p>
+
+
 <h3 align="left">Technical Skills</h3>
 -> Backend Development: Laravel <br>
 -> Full-Stack Development: MERN Stack <br>
