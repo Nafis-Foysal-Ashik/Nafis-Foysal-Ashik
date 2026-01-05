@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafis-foysal-ashik&label=Profile%20views&color=0e75b6&style=flat" alt="nafis-foysal-ashik" /> </p>
 
-- 4th year CSE propspective student **at Khulna University of Engineering & Technology**
-
-- I’m currently learning **Java and Andriod app development**
+- 4th-year computer science and engineering prospective student at **Khulna University of Engineering and Technology.**
 
 - How to reach me **nafisfoisal25@gmail.com**
 
