@@ -64,15 +64,15 @@
 
 <h3 align="left">Projects</h3>
 <a href="https://github.com/Nafis-Foysal-Ashik/Blood-Bank-Management-System">Blood Bank Management System</a><br>
-<p>Efficiently stores, tracks, and manages blood inventory and donor information to <br> ensure timely and safe blood availability for patients.</p>
+<span>Efficiently stores, tracks, and manages blood inventory and donor information to <br> ensure timely and safe blood availability for patients.</span>
 JavaScript | Firebase <br>
 <a href="https://github.com/Nafis-Foysal-Ashik/DBMS_Project">Car Rental DBMS</a><br>
-<p>Monitors and tracks the vehicles</p>
+<span>Monitors and tracks the vehicles</span>
 MySQL<br>
 <a href="https://github.com/Nafis-Foysal-Ashik/MERN_Stack_Project">Bongo Shop</a><br>
-<p>Online Shopping Platform</p>
+<span>Online Shopping Platform</span>
 MERN <br>
 <a href="https://github.com/Nafis-Foysal-Ashik/Laravel_Project">Event Management</a><br>
-<p>Web based Client Finder</p>
+<span>Web based Client Finder</span>
 Laravel | MySQL | HTML | CSS <br><br>
 
