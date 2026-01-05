@@ -62,4 +62,7 @@
 -> Full-Stack Development: MERN Stack <br>
 -> Mobile Application Development: Android (Android Studio)<br>
 
+<h3 align="left">Projects</h3>
+<a href="https://github.com/Nafis-Foysal-Ashik/Blood-Bank-Management-System">Blood Bank Management System</a><br>
+<p>Efficiently stores, tracks, and manages blood inventory and donor information to ensure timely and safe blood availability for patients.</p>
 
