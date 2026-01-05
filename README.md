@@ -57,6 +57,41 @@
 </a>
 
 
+<h3 align="left">Frontend Development:</h3>
+<p align="left"> 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png"
+      width="40" height="40" style="margin:10px;" />
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://styles.redditmedia.com/t5_2qifv/styles/communityIcon_8y41p0z058tc1.png"
+       width="40" height="40" style="margin:10px;" />
+</a>
+
+<a href="https://www.w3schools.com/REACT/DEFAULT.ASP" target="_blank" rel="noreferrer">
+  <img src="https://www.w3schools.com/whatis/img_react.jpg"
+       width="40" height="40" style="margin:10px;" />
+</a>
+
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.bairesdev.com/wp-content/uploads/2020/07/redux.svg"
+       width="40" height="40" style="margin:10px;" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://images.seeklogo.com/logo-png/35/2/tailwind-css-logo-png_seeklogo-354675.png"
+      width="40" height="40" style="margin:10px;" />
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://assets.stickpng.com/images/62a76468bd73a4af5c5d4fb7.png"
+       width="40" height="40" style="margin:10px;" />
+</a>
+
+</p>
+
+
 <h3 align="left">Technical Skills</h3>
 -> Backend Development: Laravel <br>
 -> Full-Stack Development: MERN Stack <br>
