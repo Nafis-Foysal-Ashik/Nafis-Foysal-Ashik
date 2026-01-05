@@ -57,3 +57,9 @@
 </a>
 
 
+**Technical Skills**
+Backend Development: Laravel
+Full-Stack Development: MERN Stack
+Mobile Application Development: Android (Android Studio)
+
+
