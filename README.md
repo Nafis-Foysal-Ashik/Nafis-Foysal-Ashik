@@ -21,7 +21,7 @@
 <a href="https://leetcode.com/u/Nafis_75/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-svg-download-png-2944960.png?f=webp&w=256" alt="nafis20" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
      alt="c" width="40" height="40" style="margin:10px;" />
@@ -51,7 +51,7 @@
        alt="php" width="40" height="40" style="margin:10px;" />
 </a>
 
-<h3 align="left">Frontend Development:</h3>
+<h3 align="left">Frontend Development</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png"
