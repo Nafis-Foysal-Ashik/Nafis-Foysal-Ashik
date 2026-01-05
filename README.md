@@ -51,12 +51,6 @@
        alt="php" width="40" height="40" style="margin:10px;" />
 </a>
 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-       alt="arduino" width="40" height="40" style="margin:10px;" />
-</a>
-
-
 <h3 align="left">Frontend Development:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -124,6 +118,36 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-icon-svg-download-png-1175140.png?f=webp&w=256"
       width="40" height="40" style="margin:10px;" />
 </a>
+</p>
+
+<h3 align="left">Frameworks</h3>
+<p align="left"> 
+<a href="https://laravel.com/docs/12.x/installation" target="_blank" rel="noreferrer">
+  <img src="https://logo.svgcdn.com/devicon/laravel-original-wordmark.png"
+      width="40" height="40" style="margin:10px;" />
+</p>
+
+<h3 align="left">Others</h3>
+<p align="left"> 
+<a href="https://git-scm.com/community/logos" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-those-icons-flat-those-icons/1200/external-Git-Logo-social-media-those-icons-flat-those-icons.jpg"
+      width="40" height="40" style="margin:10px;" />
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/firebase.svg"
+      width="40" height="40" style="margin:10px;" />
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+       alt="arduino" width="40" height="40" style="margin:10px;" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/250px-Tux.svg.png"
+      width="40" height="40" style="margin:10px;" />
+</a>
+
 </p>
 
 
