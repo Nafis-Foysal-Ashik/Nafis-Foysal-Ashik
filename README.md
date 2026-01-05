@@ -121,7 +121,7 @@
       width="40" height="40" style="margin:10px;" />
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://images.seeklogo.com/logo-png/50/2/mongodb-logo-png_seeklogo-501224.png"
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-icon-svg-download-png-1175140.png?f=webp&w=256"
       width="40" height="40" style="margin:10px;" />
 </a>
 </p>
