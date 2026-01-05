@@ -3,20 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafis-foysal-ashik&label=Profile%20views&color=0e75b6&style=flat" alt="nafis-foysal-ashik" /> </p>
 
-**About Me**
+<h3 align="left">About Me</h3>
 - 4th-year computer science and engineering prospective student at Khulna University of Engineering and Technology.
 - Full Stack Web Developer
 - Interest in AI/LLM
 - Solved more than 500 problems in different online platforms
 
-**How to reach me**
+<h3 align="left">How to reach me</h3>
 
 <p align="left">
 <a href="mailto:nafisfoisal25@gmail.com" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6737568a4ac417efeb387e5a/677d0809823113a71937513b_5fae8dbeccd209f34d84936d_Gmail_Product_Icon_96dp.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nafis-foysal-ashik-2654ba259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafis foysal ashik" height="30" width="40" /></a>
 <a href="https://instagram.com/nafis_foysal_ashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nafis_foysal_ashik" height="30" width="40" /></a>
 
-**Online Judge**
+<h3 align="left">Online Judge</h3>
 <a href="https://codeforces.com/profile/nafis20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nafis20" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Nafis_75/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-svg-download-png-2944960.png?f=webp&w=256" alt="nafis20" height="30" width="40" /></a>
 </p>
@@ -57,9 +57,9 @@
 </a>
 
 
-**Technical Skills**
-Backend Development: Laravel
-Full-Stack Development: MERN Stack
-Mobile Application Development: Android (Android Studio)
+<h3 align="left">Technical Skills</h3>
+Backend Development: Laravel <br>
+Full-Stack Development: MERN Stack <br>
+Mobile Application Development: Android (Android Studio)<br>
 
 
