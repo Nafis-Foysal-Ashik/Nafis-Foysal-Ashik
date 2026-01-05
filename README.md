@@ -114,6 +114,18 @@
 </a>
 </p>
 
+<h3 align="left">Mobile App Development</h3>
+<p align="left"> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mysql.svg"
+      width="40" height="40" style="margin:10px;" />
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://images.seeklogo.com/logo-png/50/2/mongodb-logo-png_seeklogo-501224.png"
+      width="40" height="40" style="margin:10px;" />
+</a>
+</p>
+
 
 <h3 align="left">Technical Skills</h3>
 -> Backend Development: Laravel <br>
