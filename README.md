@@ -9,9 +9,8 @@
 - Interest in AI/LLM
 - Solved more than 500 problems in different online platforms
 
-- How to reach me **nafisfoisal25@gmail.com**
+**How to reach me **nafisfoisal25@gmail.com****
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nafis foysal ashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafis foysal ashik" height="30" width="40" /></a>
 <a href="https://fb.com/nafis foysal ashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafis foysal ashik" height="30" width="40" /></a>
