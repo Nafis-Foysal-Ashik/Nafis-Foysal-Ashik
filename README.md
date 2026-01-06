@@ -14,10 +14,9 @@
 <p align="left">
      <span>
 <a href="mailto:nafisfoisal25@gmail.com" target="_blank"><img align="center" src="https://cdn.prod.website-files.com/6737568a4ac417efeb387e5a/677d0809823113a71937513b_5fae8dbeccd209f34d84936d_Gmail_Product_Icon_96dp.svg" height="30"  width="40" />
-</a></span>
-
+</a>
 <a href="https://www.linkedin.com/in/nafis-foysal-ashik-2654ba259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafis foysal ashik" height="30" width="40" /></a>
-<a href="https://instagram.com/nafis_foysal_ashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nafis_foysal_ashik" height="30" width="40" /></a>
+<a href="https://instagram.com/nafis_foysal_ashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nafis_foysal_ashik" height="30" width="40" /></a></span>
 
 <h3 align="left">Online Judge</h3>
 <a href="https://codeforces.com/profile/nafis20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nafis20" height="30" width="40" /></a>
