@@ -14,23 +14,46 @@
   </p>
 
   <h3>Connect with me</h3>
-  <p>
-    <a href="mailto:nafisfoisal25@gmail.com" target="_blank">
-      <img src="https://cdn.prod.website-files.com/6737568a4ac417efeb387e5a/677d0809823113a71937513b_5fae8dbeccd209f34d84936d_Gmail_Product_Icon_96dp.svg" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://www.linkedin.com/in/nafis-foysal-ashik-2654ba259/" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://instagram.com/nafis_foysal_ashik" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://codeforces.com/profile/nafis20" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://leetcode.com/u/Nafis_75/" target="blank">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-svg-download-png-2944960.png?f=webp&w=256" height="30" width="40" />
-    </a>
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="mailto:nafisfoisal25@gmail.com" target="_blank">
+          <img src="https://cdn.prod.website-files.com/6737568a4ac417efeb387e5a/677d0809823113a71937513b_5fae8dbeccd209f34d84936d_Gmail_Product_Icon_96dp.svg" height="48" width="48" alt="Gmail" />
+        </a>
+        <br>Gmail
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.linkedin.com/in/nafis-foysal-ashik-2654ba259/" target="blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48" width="48" alt="LinkedIn" />
+        </a>
+        <br>LinkedIn
+      </td>
+      <td align="center" width="96">
+        <a href="https://instagram.com/nafis_foysal_ashik" target="blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="48" width="48" alt="Instagram" />
+        </a>
+        <br>Instagram
+      </td>
+    </tr>
+  </table>
+
+  <h3>Online Judges</h3>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="https://codeforces.com/profile/nafis20" target="blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="48" width="48" alt="Codeforces" />
+        </a>
+        <br>Codeforces
+      </td>
+      <td align="center" width="96">
+        <a href="https://leetcode.com/u/Nafis_75/" target="blank">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-svg-download-png-2944960.png?f=webp&w=256" height="48" width="48" alt="LeetCode" />
+        </a>
+        <br>LeetCode
+      </td>
+    </tr>
+  </table>
 
   <br>
 
