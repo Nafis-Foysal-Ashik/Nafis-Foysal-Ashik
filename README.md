@@ -17,8 +17,8 @@
   <table align="center">
     <tr>
       <td align="center" width="96">
-        <a href="https://nafis-portfolio-sigma.vercel.app/" target="_blank" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif; border: 1px solid #333;">
-          Portfolio
+        <a href="https://nafis-portfolio-sigma.vercel.app/" target="blank">
+          <img src="https://img.shields.io/badge/Portfolio-Visit_Now-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="35" />
         </a>
       </td>
     </tr>
