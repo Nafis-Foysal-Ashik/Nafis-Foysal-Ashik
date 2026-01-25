@@ -13,6 +13,17 @@
     Solved 500+ problems on different online platforms
   </p>
 
+  <h3>Portfolio</h3>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="https://nafis-portfolio-sigma.vercel.app/" target="_blank" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif; border: 1px solid #333;">
+          Portfolio
+        </a>
+      </td>
+    </tr>
+  </table>
+
   <h3>Connect with me</h3>
   <table align="center">
     <tr>
