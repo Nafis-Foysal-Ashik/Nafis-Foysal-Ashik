@@ -218,6 +218,12 @@
         <br>Git
       </td>
       <td align="center" width="96">
+        <a href="https://git-scm.com/">
+          <img src="https://www.docker.com/app/uploads/2023/08/logo-dont-proportions.svg" width="48" height="48" alt="Git" />
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
         <a href="https://www.arduino.cc/">
           <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" />
         </a>
