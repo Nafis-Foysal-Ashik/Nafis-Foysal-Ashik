@@ -135,7 +135,7 @@
       </td>
       <td align="center" width="96">
         <a href="https://redux.js.org/">
-          <img src="https://www.bairesdev.com/wp-content/uploads/2020/07/redux.svg" width="48" height="48" alt="Redux" />
+          <img src="https://images.seeklogo.com/logo-png/28/1/redux-logo-png_seeklogo-284335.png" width="48" height="48" alt="Redux" />
         </a>
         <br>Redux
       </td>
